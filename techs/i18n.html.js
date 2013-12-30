@@ -1,6 +1,6 @@
 'use strict';
 var BEM = require('bem'),
-    Q = BEM.require('q'),
+    Q = BEM.require('qq'),
     PATH = require('path'),
     LangsMixin = require('./i18n').LangsMixin,
     VM = require('vm'),
